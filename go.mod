@@ -1,3 +1,4 @@
-module github.com/sakirsensoy/genv
+module github.com/hsy-public/genv
+
 
 go 1.12
